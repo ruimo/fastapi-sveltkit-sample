@@ -1,0 +1,8 @@
+{
+  "name": "sveltkit",
+  "dockerComposeFile": ["../docker-compose.yaml"],
+  "service": "sveltkit",
+  "shutdownAction": "none",
+  "extensions": ["svelte.svelte-vscode"],
+  "workspaceFolder": "/root/dev"
+}
